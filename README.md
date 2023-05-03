@@ -5,7 +5,7 @@ SSRS RO9 - Hydrology and Limnology Research Group is a research group of IPB SSR
 ________________________________________________________________________________________________________________________________________________________
 
 _
-<br/> CP: ....@gmail.com (*....ardyah .....*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
+<br/> CP: ....@gmail.com (*....Aslam .....*)<img src="https://github.com/ipbssrs/ipbssrs/blob/e06c45804cf17ab573e55ff856c4c3b8bcf81b8e/logo-ssrs/Dir_Riset.png" align="right" width="33%" />
 <br/> SSRS RO15 - Coastal & Marine Research Group
   <br/> Center for Strategic Research Incubation
   <br/> **Directorate of Strategic Scientific Research**
